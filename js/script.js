@@ -1,0 +1,1 @@
+console.log("Alfred Banda Portfolio loaded successfully.");
